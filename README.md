@@ -1,6 +1,7 @@
 # Scrapy_YellowPages_Scraper
 Scrapes Information from YellowPages with blazing fast speed of Scrapy
 
+
 <h2> Hey there! I'm Ehsan</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -21,7 +22,7 @@ Scrapes Information from YellowPages with blazing fast speed of Scrapy
   ![Playwright (Web-Scraping)](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=Playwright&logoColor=276DC3)
   ![Selenium (Web-Scraping)](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=Selenium&logoColor=276DC3)
 - 🌐 &nbsp;
-  ![Kali](https://img.shields.io/badge/-Kali-Linux-333333?style=flat&logo=Kali-Linux)
+  ![Kali](https://img.shields.io/badge/-Kali%20Linux-333333?style=flat&logo=KaliLinux)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -46,3 +47,4 @@ Scrapes Information from YellowPages with blazing fast speed of Scrapy
 </p>
 
 ⭐️ From [Ehsan U.](https://github.com/Ehsan-U)
+
